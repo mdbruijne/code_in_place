@@ -1,0 +1,35 @@
+mehran sahami
+chris piech
+code in place
+python
+karel
+simpleimage
+tkinter
+ed
+pycharm
+for
+for-each
+while
+fence post
+if-else
+print
+return
+input
+parameters
+append
+pop
+extend
+immutable
+mutable
+key
+dictionaries
+decomposition
+stepwise refinement
+variable
+constants
+int
+float
+string
+bool
+equal
+two

@@ -1,0 +1,35 @@
+The lecturer od this course that calls himself more 'old-school' in programming
+The younger, very energetic lecturer of this course
+The name of this course
+The programming language that was taught in this course
+The robot we got to spend the first week on
+The package that we use in order to be able to change images
+The package that is needed to be able to use animations
+The name of the platform used for communications in this course
+The recommended IDE for this course
+The control flow loop that is used when the range of the loop is know
+The control flow loop that will, on each iteration, set the element to be the next item (in order) in the collection
+The control flow loop that is used when the range is unknown but a condition can be used
+The name of the problem when the loop of function causes to be off by one error
+The control flow loop that that does not cause a loop but requires at least one condition to be checked
+The command that prints text to the terminal
+The command is used to return a variable from one function to another
+The command that ask an user for an input
+The elements in a function that provides a function with some information when you are calling it
+The command that add elements to end of list with
+The command that removes the last element of the list and returns it
+The command that adds all element from other list to a list that the function is called on
+The variables that act like they are copied between functions
+The variables that act like their URL is copied between functions
+In dictionaries, what you use to access associated value
+The variables that associate a key with a value
+The name of the approach to approach a problem 'top down'
+Another word for decomposition
+The name of the place in a program to store information, where it associates a name with a value
+The name of variables that represent quantities that don’t change while the program is running and they are SNAKE_CASE
+The name of the type of python variable that takes on an integer value (no decimal point)
+The name of the type of python variable that takes on a real number value (has decimal point)
+The name of the type of python variable that takes on text characters (between single/double quotes)
+The name of the type of python variable that takes on boolean logical values (True/False)
+The name of the sign that assign a value to a variable
+The number of equal signs used to compare the left side to the right side
